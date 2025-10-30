@@ -1,4 +1,4 @@
-# Alpha Arena 精选
+#  Alpha Arena 精选
 
 ![GitHub License](https://img.shields.io/github/license/kukapay/stargate-bridge-mcp) 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
@@ -8,6 +8,14 @@
 
 虽然 Alpha Arena 本身并非开源，但它引发了社区驱动的复制项目热潮。本仓库聚焦于 **2025 年 10 月起** 的近期开源实现、AI 交易模拟框架、实验设置以及相关文章/教程。适合开发者、量化交易者和 AI 研究人员，用于实验基于 LLM 的交易代理、市场提示工程以及多代理竞赛。
 
+## 目录
+
+- [为什么重要](#为什么重要)
+- [开源实现与框架](#开源实现与框架)
+- [实验与基准](#实验与基准)
+- [博客、教程与文章](#博客教程与文章)
+- [超越加密货币：AI 交易](#超越加密货币ai-交易)
+- [许可证](#许可证)
 
 ## 为什么重要
 - **填补开源空白**：Alpha Arena 的封闭特性限制了复制，但这些项目允许自托管竞技场，用于纸上交易、回测和真实市场实验。
@@ -40,6 +48,12 @@
 
 - **LLM-trader-test** | [kojott/LLM-trader-test](https://github.com/kojott/LLM-trader-test)  
   使用 DeepSeek 决策的纸上交易机器人，对接 Binance API，并带实时仪表板；受 nof1.ai 挑战启发。  
+
+- **Hyper-Alpha-Arena** | [HammerGPT/Hyper-Alpha-Arena](https://github.com/HammerGPT/Hyper-Alpha-Arena)  
+  一个开源 AI 交易竞赛平台，用于实时加密货币交易，受 nof1 Alpha Arena 启发，支持多个 LLM 进行自主交易并带实时排行榜。  
+
+- **ai-trading-agent** | [Gajesh2007/ai-trading-agent](https://github.com/Gajesh2007/ai-trading-agent)  
+  一个基于 LLM 的 Hyperliquid 交易代理，分析实时市场数据，决定买入/卖出/持有行动，并执行带风险管理的交易。  
   
 ### 跟单工具
 - **nof1-tracker** | [terryso/nof1-tracker](https://github.com/terryso/nof1-tracker)  
@@ -79,6 +93,27 @@
 - **[DeepSeek and Qwen AI Models Crush Western Rivals in Cryptocurrency Trading Challenge](https://www.scmp.com/tech/tech-trends/article/3330461/deepseek-and-qwen-ai-models-crush-western-rivals-cryptocurrency-trading-challenge)** （SCMP，2025 年 10 月 27 日）<br>为什么开源获胜；代理框架的影响。
   
 - X 讨论：关注 #AlphaArena 以获取实时更新，例如 [DeepSeek 的 +120% 领先](https://x.com/KalshiEco/status/1983186186228380134) 或 [开源超群表现](https://x.com/alex_mirran/status/1983594277243380039)。
+
+## 超越加密货币：AI 交易
+超越加密货币，这里是股票、扑克和其他领域中知名 AI 驱动交易和竞争决策平台的列表。这些平台呼应 Alpha Arena 的多模型竞赛，但适应不同市场或游戏，展示 LLM 在风险和策略方面的能力。
+
+- **AI-Trader** | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)  
+  一个针对 NASDAQ 100 股票的多模型 AI 交易竞赛，模型如 DeepSeek、GPT-5 和 Claude 各自主交易 $10K 以击败 QQQ ETF 基准。与 Alpha Arena 类似，但聚焦股票，带实时性能跟踪和历史回放。
+
+- **RockAlpha** | [rockalpha.rockflow.ai](https://rockalpha.rockflow.ai/)  
+  RockFlow AI 金融生态系统的一部分，RockAlpha 将 DeepSeek、Qwen、Grok、Claude、Gemini 和 ChatGPT 等 LLM 置于模拟股票交易战斗中。它利用 TradeGPT 等 AI 工具通过大数据和新闻进行趋势分析，带低门槛的跟单功能。2025 年顶级免费 AI 股票机器人排名第一，将社交信号和专业洞见转化为可行动交易——将 Alpha Arena 的波动性转移到股票市场。
+
+- **PokerBattle.ai** | [pokerbattle.ai](https://pokerbattle.ai/)  
+  LLM 的首届现金扑克锦标赛，一个 24/7 德州扑克对决，从 2025 年 10 月 27 日至 11 月 3 日，模型头对头竞争带真实赌注。使用模拟器计算手牌强度和底池赔率，测试 AI 虚张声势和决策不确定环境——镜像交易风险但在博弈论中。Reddit 和 Hacker News 社区热议其作为生成式 AI 娱乐基准的潜力。
+
+- **ai-hedge-fund** | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)  
+  一个 AI 对冲基金团队概念验证，多个专业代理协作分析股票、生成交易信号并模拟投资组合管理。  
+
+- **TradingAgents** | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)  
+  一个模拟交易公司的多代理 LLM 框架，专业代理（分析师、交易员、风险经理）辩论并决定量化交易。  
+
+- **Agent-Trading-Arena** | [wekjsdvnm/agent-trading-arena](https://github.com/wekjsdvnm/agent-trading-arena)  
+  一个闭环、无先验环境，用于评估自玩金融代理，通过类人交易模拟测试 LLM 的数值理解。  
 
 ## 许可证
 本项目采用 MIT 许可证。详情见 [LICENSE](LICENSE) 文件。
