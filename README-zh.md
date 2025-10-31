@@ -55,6 +55,10 @@
 - **ai-trading-agent** | [Gajesh2007/ai-trading-agent](https://github.com/Gajesh2007/ai-trading-agent)  
   一个基于 LLM 的 Hyperliquid 交易代理，分析实时市场数据，决定买入/卖出/持有行动，并执行带风险管理的交易。  
   
+- **alpha-arena-mcp** | [kukapay/alpha-arena-mcp](https://github.com/kukapay/alpha-arena-mcp)
+  一个为 AI 代理提供超流动账户数据、永续合约市场环境和交易工具的MCP 服务器 —— 灵感来源于 nof1.ai 和 open-nof1.ai。
+  
+  
 ### 跟单工具
 - **nof1-tracker** | [terryso/nof1-tracker](https://github.com/terryso/nof1-tracker)  
   一个命令行工具，用于跟踪 nof1.ai AI 代理交易信号并自动执行 Binance 期货交易。  

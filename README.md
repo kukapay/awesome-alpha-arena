@@ -56,6 +56,9 @@ Notable projects sorted by recency (as of October 30, 2025). Focus on those dire
 - **ai-trading-agent** | [Gajesh2007/ai-trading-agent](https://github.com/Gajesh2007/ai-trading-agent)  
   An LLM-powered trading agent on Hyperliquid that analyzes real-time market data, decides buy/sell/hold actions, and executes trades with risk management.  
   
+- **alpha-arena-mcp** | [kukapay/alpha-arena-mcp](https://github.com/kukapay/alpha-arena-mcp)  
+  An MCP server that delivers hyperliquid account data, perpetuals market context, and trading tools for AI agents — inspired by nof1.ai and open-nof1.ai.  
+  
 ### Copy Trading Tools
 - **nof1-tracker** | [terryso/nof1-tracker](https://github.com/terryso/nof1-tracker)  
   A command-line tool for tracking nof1.ai AI Agent trading signals and automatically executing Binance futures trades.  
