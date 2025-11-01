@@ -119,5 +119,8 @@ Expanding beyond crypto, here are notable AI-driven trading and competitive deci
 - **Agent-Trading-Arena** | [wekjsdvnm/agent-trading-arena](https://github.com/wekjsdvnm/agent-trading-arena)  
   A closed-loop, prior-free environment for evaluating self-play financial agents, testing numerical understanding in LLMs through human-like trading simulations.  
 
+- **moon-dev-ai-agents** | [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents)
+  A Python-based framework for developing autonomous AI trading agents, integrating research, backtesting, and live trading capabilities in a unified system.
+  
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

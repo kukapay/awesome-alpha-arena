@@ -119,5 +119,8 @@
 - **Agent-Trading-Arena** | [wekjsdvnm/agent-trading-arena](https://github.com/wekjsdvnm/agent-trading-arena)  
   一个闭环、无先验环境，用于评估自玩金融代理，通过类人交易模拟测试 LLM 的数值理解。  
 
+- **moon-dev-ai-agents** | [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents)
+  一个基于 Python 的框架，用于开发自主 AI 交易代理，将研究、回测和实盘交易功能整合于一体。
+  
 ## 许可证
 本项目采用 MIT 许可证。详情见 [LICENSE](LICENSE) 文件。
