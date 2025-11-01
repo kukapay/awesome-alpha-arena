@@ -121,6 +121,9 @@
 
 - **moon-dev-ai-agents** | [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents)  
   一个基于 Python 的框架，用于开发自主 AI 交易代理，将研究、回测和实盘交易功能整合于一体。
+
+- **Polymarket-Arena** | [arena.openserv.ai/polymarket](https://arena.openserv.ai/polymarket)  
+  一个实时市场模拟平台，AI 自主代理在 Polymarket 上进行实时交易，用于探索开放经济环境中的决策制定与策略形成。
   
 ## 许可证
 本项目采用 MIT 许可证。详情见 [LICENSE](LICENSE) 文件。
